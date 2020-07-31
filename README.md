@@ -1,138 +1,70 @@
 We attach great importance to your user privacy. When you use our services, we may collect and use your relevant information. Through this privacy policy, we would like to explain to you how we collect, use, store and share this information when using our services, and how we provide you with access, update, control and protection of this information. This privacy policy is closely related to the services you use. We hope you can read it carefully and make your choice according to the guidelines of this privacy policy when necessary. We will try our best to express the relevant technical terms in this Privacy Policy in a concise way, and provide links for further explanation, so as to facilitate your understanding.
 
-
-
 By using or continuing to use our services, you agree to collect, use, store and share your relevant information in accordance with this privacy policy.
-
-
 
 This privacy policy will help you understand the following:
 
-
-
 Chapter 1 we may use the information collected
 
-
-
 Chapter 2 we may share your information
-
-
 
 Chapter 3 information you may share
 
-
-
 Chapter 4 how we will protect your information
-
-
 
 Chapter V Protection of minors' information
 
-
-
 Chapter VI scope of application of this Privacy Policy
-
-
 
 Chapter 7 changes to this Privacy Policy
 
-
-
 Chapter 8 complaints and suggestions
-
-
 
 Chapter 1 we may use the information collected
 
-
-
 We may use the information collected in the process of providing services to you for the following purposes: 1.1 providing services to you;
-
-
 
 1.2 when we provide services, it is used for authentication, customer service, security, fraud monitoring, archiving and backup purposes
 
-
-
 1.3 ensure the safety of the products and services we provide to you;
-
-
 
 1.4 help us design new services and improve our existing services;
 
-
-
 1.5 enable us to better understand how you access and use our services, so as to respond to your personalized needs, such as language settings, location settings, personalized help services and instructions, or other responses to you and other users;
-
-
 
 1.6 to provide you with advertisements more relevant to you to replace the advertisements generally launched;
 
-
-
 1.7 evaluate and improve the effectiveness of advertising and other promotional and promotional activities in our services;
-
-
 
 1.8 software certification or management software upgrade;
 
-
-
 1.9 let you participate in the investigation of our products and services.
-
-
 
 1.10 in order to let you have a better experience, improve our services or other uses you agree to, we may use the information collected through a certain service for our other services in a way of gathering information or personalization, provided that relevant laws and regulations are complied with. For example, the information collected when you use one of our services may be used in another service to provide you with specific content or to present you with information that is not generally pushed. You can also authorize us to use the information provided and stored in the service for our other services if we provide the corresponding options in the related services.
 
-
-
 Chapter 2 we may share your information
-
-
 
 1. We and our affiliated companies will not share your personal information without your consent except in the following circumstances:
 
-
-
 1.1 we and our affiliated companies may share your personal information with our affiliated companies and partners (they may not be located in your jurisdiction) for the following purposes:
-
-
 
 1.1.1 provide our services to you;
 
-
-
 1.1.2 to achieve the objectives set out in the section "how we may use the information collected";
-
-
 
 1.1.3 fulfill our obligations and exercise our rights in this privacy policy;
 
-
-
 1.1.4 understand, maintain and improve our services.
-
-
 
 2. If we or our affiliated companies share your personal information, we will strive to ensure that this Privacy Policy and other appropriate confidentiality and security measures we require them to comply with when using your personal information.
 
-
-
 3. We or our affiliated companies may also retain, preserve or disclose your personal information for the following purposes:
-
-
 
 3.1 information that must be retained due to the requirements of some local laws and regulations;
 
-
-
 3.2 information that must be retained or disclosed to comply with court orders or other legal procedures;
 
-
-
 3.3 information that must be retained or disclosed to comply with the requirements of relevant government agencies;
-
-
 
 3.4 use reasonably necessary to comply with applicable laws and regulations, safeguard social and public interests, or protect the personal and property safety or legitimate rights and interests of our customers, US or our group companies, other users or employees.
 
